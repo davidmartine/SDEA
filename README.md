@@ -8,3 +8,4 @@ Danna Murillo Lemus
 Juan David Martinez
 Juan David Legarda
 David Torres
+Julián Alexis Gómez Morales
