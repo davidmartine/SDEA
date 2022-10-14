@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "72194344707",
+    "project_id": "prueba-de-bd-75938",
+    "storage_bucket": "prueba-de-bd-75938.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72194344707:android:9c2c051571178c4c3bcb36",
+        "android_client_info": {
+          "package_name": "com.companyname.xamarincomponentes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72194344707-r3ccdq0rro9vupcht1tt4lu36dao2bcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuM1IG7JukRceavV5DHGpYc72G4vBepEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72194344707-r3ccdq0rro9vupcht1tt4lu36dao2bcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

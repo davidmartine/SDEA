@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XamarinComponentes.Vista.FechaHora" Title="FECHA HORA">
+    <ContentPage.Content>
+        <StackLayout>
+            <DatePicker x:Name="dtFecha" Format="MMM dd, yyyy" Margin="30,0,0,30"
+                        DateSelected="dtFecha_DateSelected"/>
+            <TimePicker x:Name="tpHora" PropertyChanged="tpHora_PropertyChanged"/>
+            <Label Text="Welcome to Xamarin.Forms!"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" x:Name="lblResultado" />
+            <Label Text="Welcome to Xamarin.Forms!"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" x:Name="lblHora" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

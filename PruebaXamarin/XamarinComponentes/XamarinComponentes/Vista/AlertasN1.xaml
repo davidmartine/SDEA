@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<popup:PopupPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:popup="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup"
+             x:Class="XamarinComponentes.Vista.AlertasN1">
+    <Frame CornerRadius="5" Margin="50,170,50,170">
+        <Grid BackgroundColor="White">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="80"/>
+            </Grid.RowDefinitions>
+            <Image Source="app.png" Margin="80" HeightRequest="150" WidthRequest="150"
+               />
+            <Label Text="SOY UN MENSAJE POPUP" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"
+               Grid.Row="1" FontSize="25"/>
+
+            <Button Text="VOLVER" BorderColor="LightBlue" BackgroundColor="Lime" Grid.Row="2" Margin="5"
+                    x:Name="Validar" Clicked="Validar_Clicked" CornerRadius="8"/>
+
+        </Grid>
+    </Frame>
+   
+</popup:PopupPage>

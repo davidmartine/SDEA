@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XamarinComponentes.Vista.Operador">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="200"/>
+        </Grid.RowDefinitions>
+        <StackLayout Grid.Row="0">
+            <Image x:Name="ImagenOp"/>
+            <Entry Placeholder="Accion" x:Name="txtAccion"/>
+            <Entry Placeholder="Cedula" x:Name="txtCedula"/>
+            <Entry Placeholder="Descripcion" x:Name="txtDescripcion"/>
+            <Entry Placeholder="Edad" x:Name="txtEdad"/>
+            <Entry Placeholder="Eps" x:Name="txtEps"/>
+            <Entry Placeholder="Evento" x:Name="txtEvento"/>
+            <Entry Placeholder="FechaNacimiento" x:Name="txtFechaNacimiento"/>
+            <Entry Placeholder="Nombre" x:Name="txtNombre"/>
+            <Entry Placeholder="Telefono" x:Name="txtTelefono"/>
+            <Button Text="AGREGAR IMAGEN" x:Name="btnAgregarFoto" Clicked="btnAgregarFoto_Clicked"/>
+            <Button Text="GUARDAR" x:Name="btnGuardar" Clicked="btnGuardar_Clicked"/>
+        </StackLayout>
+        <CollectionView Grid.Row="1" x:Name="listaoperador">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="40"/>
+                        </Grid.RowDefinitions>
+                        
+                        <Label Text="{Binding Accion}" Grid.Row="0" VerticalTextAlignment="Center" 
+                               HorizontalTextAlignment="Center" HorizontalOptions="FillAndExpand"
+                               VerticalOptions="FillAndExpand" FontAttributes="Bold"
+                               TextColor="Black"/>
+                        
+                    </Grid>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </Grid>
+    
+</ContentPage>

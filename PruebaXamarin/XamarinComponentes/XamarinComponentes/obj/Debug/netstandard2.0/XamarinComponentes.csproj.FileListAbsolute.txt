@@ -1,0 +1,42 @@
+C:\Users\jdmartinez\Documents\CS\Csharp\XamarinForms\PruebaXamarin\XamarinComponentes\XamarinComponentes\bin\Debug\netstandard2.0\XamarinComponentes.deps.json
+C:\Users\jdmartinez\Documents\CS\Csharp\XamarinForms\PruebaXamarin\XamarinComponentes\XamarinComponentes\bin\Debug\netstandard2.0\XamarinComponentes.dll
+C:\Users\jdmartinez\Documents\CS\Csharp\XamarinForms\PruebaXamarin\XamarinComponentes\XamarinComponentes\bin\Debug\netstandard2.0\XamarinComponentes.pdb
+C:\Users\jdmartinez\Documents\CS\Csharp\XamarinForms\PruebaXamarin\XamarinComponentes\XamarinComponentes\obj\Debug\netstandard2.0\XamarinComponentes.csproj.AssemblyReference.cache
+C:\Users\jdmartinez\Documents\CS\Csharp\XamarinForms\PruebaXamarin\XamarinComponentes\XamarinComponentes\obj\Debug\netstandard2.0\XamarinComponentes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdmartinez\Documents\CS\Csharp\XamarinForms\PruebaXamarin\XamarinComponentes\XamarinComponentes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jdmartinez\Documents\CS\Csharp\XamarinForms\PruebaXamarin\XamarinComponentes\XamarinComponentes\obj\Debug\netstandard2.0\Vista\Alertas.xaml.g.cs
+C:\Users\jdmartinez\Documents\CS\Csharp\XamarinForms\PruebaXamarin\XamarinComponentes\XamarinComponentes\obj\Debug\netstandard2.0\Vista\AlertasN1.xaml.g.cs
+C:\Users\jdmartinez\Documents\CS\Csharp\XamarinForms\PruebaXamarin\XamarinComponentes\XamarinComponentes\obj\Debug\netstandard2.0\Vista\FechaHora.xaml.g.cs
+C:\Users\jdmartinez\Documents\CS\Csharp\XamarinForms\PruebaXamarin\XamarinComponentes\XamarinComponentes\obj\Debug\netstandard2.0\Vista\ImagenCircular.xaml.g.cs
+C:\Users\jdmartinez\Documents\CS\Csharp\XamarinForms\PruebaXamarin\XamarinComponentes\XamarinComponentes\obj\Debug\netstandard2.0\Vista\MenuPrincipal.xaml.g.cs
+C:\Users\jdmartinez\Documents\CS\Csharp\XamarinForms\PruebaXamarin\XamarinComponentes\XamarinComponentes\obj\Debug\netstandard2.0\Vista\Operador.xaml.g.cs
+C:\Users\jdmartinez\Documents\CS\Csharp\XamarinForms\PruebaXamarin\XamarinComponentes\XamarinComponentes\obj\Debug\netstandard2.0\Vista\Tarjetas.xaml.g.cs
+C:\Users\jdmartinez\Documents\CS\Csharp\XamarinForms\PruebaXamarin\XamarinComponentes\XamarinComponentes\obj\Debug\netstandard2.0\XamarinComponentes.AssemblyInfoInputs.cache
+C:\Users\jdmartinez\Documents\CS\Csharp\XamarinForms\PruebaXamarin\XamarinComponentes\XamarinComponentes\obj\Debug\netstandard2.0\XamarinComponentes.AssemblyInfo.cs
+C:\Users\jdmartinez\Documents\CS\Csharp\XamarinForms\PruebaXamarin\XamarinComponentes\XamarinComponentes\obj\Debug\netstandard2.0\XamarinComponentes.csproj.CoreCompileInputs.cache
+C:\Users\jdmartinez\Documents\CS\Csharp\XamarinForms\PruebaXamarin\XamarinComponentes\XamarinComponentes\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jdmartinez\Documents\CS\Csharp\XamarinForms\PruebaXamarin\XamarinComponentes\XamarinComponentes\obj\Debug\netstandard2.0\XamarinComponentes.dll
+C:\Users\jdmartinez\Documents\CS\Csharp\XamarinForms\PruebaXamarin\XamarinComponentes\XamarinComponentes\obj\Debug\netstandard2.0\refint\XamarinComponentes.dll
+C:\Users\jdmartinez\Documents\CS\Csharp\XamarinForms\PruebaXamarin\XamarinComponentes\XamarinComponentes\obj\Debug\netstandard2.0\XamarinComponentes.pdb
+C:\Users\jdmartinez\Documents\CS\Csharp\XamarinForms\PruebaXamarin\XamarinComponentes\XamarinComponentes\obj\Debug\netstandard2.0\ref\XamarinComponentes.dll
+C:\Users\jdmartinez\Documents\CS\TAREA XAMARIN\SDEA\PruebaXamarin\XamarinComponentes\XamarinComponentes\bin\Debug\netstandard2.0\XamarinComponentes.deps.json
+C:\Users\jdmartinez\Documents\CS\TAREA XAMARIN\SDEA\PruebaXamarin\XamarinComponentes\XamarinComponentes\bin\Debug\netstandard2.0\XamarinComponentes.dll
+C:\Users\jdmartinez\Documents\CS\TAREA XAMARIN\SDEA\PruebaXamarin\XamarinComponentes\XamarinComponentes\bin\Debug\netstandard2.0\XamarinComponentes.pdb
+C:\Users\jdmartinez\Documents\CS\TAREA XAMARIN\SDEA\PruebaXamarin\XamarinComponentes\XamarinComponentes\obj\Debug\netstandard2.0\XamarinComponentes.csproj.AssemblyReference.cache
+C:\Users\jdmartinez\Documents\CS\TAREA XAMARIN\SDEA\PruebaXamarin\XamarinComponentes\XamarinComponentes\obj\Debug\netstandard2.0\XamarinComponentes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdmartinez\Documents\CS\TAREA XAMARIN\SDEA\PruebaXamarin\XamarinComponentes\XamarinComponentes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jdmartinez\Documents\CS\TAREA XAMARIN\SDEA\PruebaXamarin\XamarinComponentes\XamarinComponentes\obj\Debug\netstandard2.0\Vista\Alertas.xaml.g.cs
+C:\Users\jdmartinez\Documents\CS\TAREA XAMARIN\SDEA\PruebaXamarin\XamarinComponentes\XamarinComponentes\obj\Debug\netstandard2.0\Vista\AlertasN1.xaml.g.cs
+C:\Users\jdmartinez\Documents\CS\TAREA XAMARIN\SDEA\PruebaXamarin\XamarinComponentes\XamarinComponentes\obj\Debug\netstandard2.0\Vista\FechaHora.xaml.g.cs
+C:\Users\jdmartinez\Documents\CS\TAREA XAMARIN\SDEA\PruebaXamarin\XamarinComponentes\XamarinComponentes\obj\Debug\netstandard2.0\Vista\ImagenCircular.xaml.g.cs
+C:\Users\jdmartinez\Documents\CS\TAREA XAMARIN\SDEA\PruebaXamarin\XamarinComponentes\XamarinComponentes\obj\Debug\netstandard2.0\Vista\MenuPrincipal.xaml.g.cs
+C:\Users\jdmartinez\Documents\CS\TAREA XAMARIN\SDEA\PruebaXamarin\XamarinComponentes\XamarinComponentes\obj\Debug\netstandard2.0\Vista\Operador.xaml.g.cs
+C:\Users\jdmartinez\Documents\CS\TAREA XAMARIN\SDEA\PruebaXamarin\XamarinComponentes\XamarinComponentes\obj\Debug\netstandard2.0\Vista\Tarjetas.xaml.g.cs
+C:\Users\jdmartinez\Documents\CS\TAREA XAMARIN\SDEA\PruebaXamarin\XamarinComponentes\XamarinComponentes\obj\Debug\netstandard2.0\XamarinComponentes.AssemblyInfoInputs.cache
+C:\Users\jdmartinez\Documents\CS\TAREA XAMARIN\SDEA\PruebaXamarin\XamarinComponentes\XamarinComponentes\obj\Debug\netstandard2.0\XamarinComponentes.AssemblyInfo.cs
+C:\Users\jdmartinez\Documents\CS\TAREA XAMARIN\SDEA\PruebaXamarin\XamarinComponentes\XamarinComponentes\obj\Debug\netstandard2.0\XamarinComponentes.csproj.CoreCompileInputs.cache
+C:\Users\jdmartinez\Documents\CS\TAREA XAMARIN\SDEA\PruebaXamarin\XamarinComponentes\XamarinComponentes\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jdmartinez\Documents\CS\TAREA XAMARIN\SDEA\PruebaXamarin\XamarinComponentes\XamarinComponentes\obj\Debug\netstandard2.0\XamarinComponentes.dll
+C:\Users\jdmartinez\Documents\CS\TAREA XAMARIN\SDEA\PruebaXamarin\XamarinComponentes\XamarinComponentes\obj\Debug\netstandard2.0\refint\XamarinComponentes.dll
+C:\Users\jdmartinez\Documents\CS\TAREA XAMARIN\SDEA\PruebaXamarin\XamarinComponentes\XamarinComponentes\obj\Debug\netstandard2.0\XamarinComponentes.pdb
+C:\Users\jdmartinez\Documents\CS\TAREA XAMARIN\SDEA\PruebaXamarin\XamarinComponentes\XamarinComponentes\obj\Debug\netstandard2.0\ref\XamarinComponentes.dll
