@@ -13,3 +13,4 @@ C:\Users\jdmartinez\Documents\CS\TAREA XAMARIN\SDEA\SDEAXamarin\SDEAXamarin\SDEA
 C:\Users\jdmartinez\Documents\CS\TAREA XAMARIN\SDEA\SDEAXamarin\SDEAXamarin\SDEAXamarin\obj\Debug\netstandard2.0\refint\SDEAXamarin.dll
 C:\Users\jdmartinez\Documents\CS\TAREA XAMARIN\SDEA\SDEAXamarin\SDEAXamarin\SDEAXamarin\obj\Debug\netstandard2.0\SDEAXamarin.pdb
 C:\Users\jdmartinez\Documents\CS\TAREA XAMARIN\SDEA\SDEAXamarin\SDEAXamarin\SDEAXamarin\obj\Debug\netstandard2.0\ref\SDEAXamarin.dll
+C:\Users\jdmartinez\Documents\CS\TAREA XAMARIN\SDEA\SDEAXamarin\SDEAXamarin\SDEAXamarin\obj\Debug\netstandard2.0\Vista\IngresarInsidente.xaml.g.cs
