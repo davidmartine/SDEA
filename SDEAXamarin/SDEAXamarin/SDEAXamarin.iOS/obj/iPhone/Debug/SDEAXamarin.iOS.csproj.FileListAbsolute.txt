@@ -61,3 +61,8 @@ C:\Users\jdmartinez\Documents\CS\TAREA XAMARIN\SDEA\SDEAXamarin\SDEAXamarin\SDEA
 C:\Users\jdmartinez\Documents\CS\TAREA XAMARIN\SDEA\SDEAXamarin\SDEAXamarin\SDEAXamarin.iOS\obj\iPhone\Debug\SDEAXamarin.iOS.csproj.CopyComplete
 C:\Users\jdmartinez\Documents\CS\TAREA XAMARIN\SDEA\SDEAXamarin\SDEAXamarin\SDEAXamarin.iOS\obj\iPhone\Debug\SDEAXamarin.iOS.exe
 C:\Users\jdmartinez\Documents\CS\TAREA XAMARIN\SDEA\SDEAXamarin\SDEAXamarin\SDEAXamarin.iOS\obj\iPhone\Debug\SDEAXamarin.iOS.pdb
+C:\Users\jdmartinez\Documents\CS\TAREA XAMARIN\SDEA\SDEAXamarin\SDEAXamarin\SDEAXamarin.iOS\bin\iPhone\Debug\Syncfusion.Licensing.dll
+C:\Users\jdmartinez\Documents\CS\TAREA XAMARIN\SDEA\SDEAXamarin\SDEAXamarin\SDEAXamarin.iOS\bin\iPhone\Debug\Syncfusion.Core.XForms.dll
+C:\Users\jdmartinez\Documents\CS\TAREA XAMARIN\SDEA\SDEAXamarin\SDEAXamarin\SDEAXamarin.iOS\bin\iPhone\Debug\Syncfusion.Core.XForms.iOS.dll
+C:\Users\jdmartinez\Documents\CS\TAREA XAMARIN\SDEA\SDEAXamarin\SDEAXamarin\SDEAXamarin.iOS\bin\iPhone\Debug\Syncfusion.SfComboBox.XForms.dll
+C:\Users\jdmartinez\Documents\CS\TAREA XAMARIN\SDEA\SDEAXamarin\SDEAXamarin\SDEAXamarin.iOS\bin\iPhone\Debug\Syncfusion.SfComboBox.XForms.iOS.dll
