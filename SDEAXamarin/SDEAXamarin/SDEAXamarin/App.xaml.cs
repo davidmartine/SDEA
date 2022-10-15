@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SDEAXamarin.Vista;
+using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -10,7 +11,7 @@ namespace SDEAXamarin
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new NavigationPage(new MenuOperador());
         }
 
         protected override void OnStart()
