@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "kV8C8704QtjpgGiD5KXT2XsCaADhObtPKTo/jjJOgySc2Js5Owl2s0o546RhonnTcuQ520tyOaFFIAHH8CXf8w==",
+  "dgSpecHash": "Q1YD7muCCe5EcTRzplaZXOWRQHKEgQwME19VwDFTsTle9mM1qjiq0jujO7EzY1SfAmBZNXdnfmNjr8Z8SUIjig==",
   "success": true,
   "projectFilePath": "C:\\Users\\jdmartinez\\Documents\\CS\\TAREA XAMARIN\\SDEA\\SDEAXamarin\\SDEAXamarin\\SDEAXamarin.iOS\\SDEAXamarin.iOS.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\jdmartinez\\.nuget\\packages\\syncfusion.licensing\\20.3.0.49\\syncfusion.licensing.20.3.0.49.nupkg.sha512",
+    "C:\\Users\\jdmartinez\\.nuget\\packages\\syncfusion.xamarin.core\\20.3.0.49\\syncfusion.xamarin.core.20.3.0.49.nupkg.sha512",
+    "C:\\Users\\jdmartinez\\.nuget\\packages\\syncfusion.xamarin.sfcombobox\\20.3.0.49\\syncfusion.xamarin.sfcombobox.20.3.0.49.nupkg.sha512",
     "C:\\Users\\jdmartinez\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\jdmartinez\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
     "C:\\Users\\jdmartinez\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
