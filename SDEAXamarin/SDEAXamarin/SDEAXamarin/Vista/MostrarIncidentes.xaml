@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SDEAXamarin.Vista.MostrarIncidentes" Title="INCIDENTES REGISTRADOS">
+    <ContentPage.Content>
+        <ScrollView>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+                <CollectionView Grid.Row="0" x:Name="listaoperador">
+                    <CollectionView.ItemTemplate>
+                        <DataTemplate>
+                            <Frame Grid.Row="0" Margin="10" CornerRadius="10">
+                                <Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="*" />
+                                    </Grid.ColumnDefinitions>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="*" />
+                                    </Grid.RowDefinitions>
+                                    <Frame Grid.Column="0" BorderColor="RoyalBlue">
+                                        <Grid>
+                                            <Grid.ColumnDefinitions>
+                                                <ColumnDefinition Width="*" />
+                                            </Grid.ColumnDefinitions>
+                                            <Grid.RowDefinitions>
+                                                <RowDefinition Height="*" />
+                                                <RowDefinition Height="*" />
+                                            </Grid.RowDefinitions>
+                                            <Image Source="informacion.png" Grid.Column="0" Grid.RowSpan="2"  Margin="5"/>
+                                            <Label Text="{Binding Evento}" Grid.Column="1" Grid.Row="0" FontAttributes="Bold"
+                                           HorizontalTextAlignment="Start" VerticalTextAlignment="Start"/>
+                                            <Label Text="{Binding Descripcion}" Grid.Column="1" Grid.Row="1"
+                                           HorizontalTextAlignment="Center" VerticalTextAlignment="Start"/>
+                                        </Grid>
+                                    </Frame>
+                                </Grid>
+                            </Frame>
+                        </DataTemplate>
+                    </CollectionView.ItemTemplate>
+                </CollectionView>
+            </Grid>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

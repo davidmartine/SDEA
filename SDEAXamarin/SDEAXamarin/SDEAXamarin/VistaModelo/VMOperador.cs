@@ -37,5 +37,33 @@ namespace SDEAXamarin.VistaModelo
 
 
         }
+
+        List<MOperador> operadors = new List<MOperador>();
+
+        public async Task <List<MOperador>> mostrar_operador()
+        {
+                var data = await CADMFirebase.firebase
+                       .Child("Operador")
+                       .OrderByKey()
+                       .OnceAsync<MOperador>();
+
+                foreach (var datos in data)
+                {
+                    MOperador parametros = new MOperador();
+                    parametros.Cedula = datos.Key;
+                    parametros.Accion = datos.Object.Accion;
+                    parametros.Descripcion = datos.Object.Descripcion;
+                    parametros.Edad = datos.Object.Edad;
+                    parametros.Eps = datos.Object.Eps;
+                    parametros.Evento = datos.Object.Evento;
+                    parametros.FechaNacimiento = datos.Object.FechaNacimiento;
+                    parametros.Nombre = datos.Object.Nombre;
+                    parametros.Telefono = datos.Object.Telefono;
+
+                    operadors.Add(parametros);
+                }
+                return this.operadors;
+            
+        }
     }
 }

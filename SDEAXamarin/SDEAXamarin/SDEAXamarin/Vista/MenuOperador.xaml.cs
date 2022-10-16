@@ -40,7 +40,10 @@ namespace SDEAXamarin.Vista
             {
                 Navigation.PushAsync(new IngresarInsidente());
             }
-
+            if (operador.Tipo.Equals("REGISTROS"))
+            {
+                Navigation.PushAsync(new MostrarIncidentes());
+            }
         }
     }
 }
