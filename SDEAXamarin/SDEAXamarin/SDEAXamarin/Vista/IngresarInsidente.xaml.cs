@@ -53,6 +53,7 @@ namespace SDEAXamarin.Vista
                 txtAccion.Text = "";
                 txtCedula.Text="";
                 txtDescripcion.Text="";
+                txtEdad.Text = "";
                 pEps.SelectedIndex=0;
                 txtEvento.Text="";
                 txtNombre.Text="";
