@@ -38,45 +38,6 @@
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         }
       },
-      "Syncfusion.Licensing/20.3.0.49": {
-        "type": "package",
-        "compile": {
-          "lib/Xamarin.iOS10/Syncfusion.Licensing.dll": {}
-        },
-        "runtime": {
-          "lib/Xamarin.iOS10/Syncfusion.Licensing.dll": {}
-        }
-      },
-      "Syncfusion.Xamarin.Core/20.3.0.49": {
-        "type": "package",
-        "dependencies": {
-          "Syncfusion.Licensing": "20.3.0.49",
-          "Xamarin.Forms": "5.0.0.2012"
-        },
-        "compile": {
-          "lib/Xamarin.iOS10/Syncfusion.Core.XForms.dll": {},
-          "lib/Xamarin.iOS10/Syncfusion.Core.XForms.iOS.dll": {}
-        },
-        "runtime": {
-          "lib/Xamarin.iOS10/Syncfusion.Core.XForms.dll": {},
-          "lib/Xamarin.iOS10/Syncfusion.Core.XForms.iOS.dll": {}
-        }
-      },
-      "Syncfusion.Xamarin.SfComboBox/20.3.0.49": {
-        "type": "package",
-        "dependencies": {
-          "Syncfusion.Xamarin.Core": "20.3.0.49",
-          "Xamarin.Forms": "5.0.0.2012"
-        },
-        "compile": {
-          "lib/Xamarin.iOS10/Syncfusion.SfComboBox.XForms.dll": {},
-          "lib/Xamarin.iOS10/Syncfusion.SfComboBox.XForms.iOS.dll": {}
-        },
-        "runtime": {
-          "lib/Xamarin.iOS10/Syncfusion.SfComboBox.XForms.dll": {},
-          "lib/Xamarin.iOS10/Syncfusion.SfComboBox.XForms.iOS.dll": {}
-        }
-      },
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
@@ -270,7 +231,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Syncfusion.Xamarin.SfComboBox": "20.3.0.49",
+          "FirebaseDatabase.net": "4.1.0",
           "Xamarin.Essentials": "1.7.0",
           "Xamarin.Forms": "5.0.0.2196"
         },
@@ -319,45 +280,6 @@
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         }
       },
-      "Syncfusion.Licensing/20.3.0.49": {
-        "type": "package",
-        "compile": {
-          "lib/Xamarin.iOS10/Syncfusion.Licensing.dll": {}
-        },
-        "runtime": {
-          "lib/Xamarin.iOS10/Syncfusion.Licensing.dll": {}
-        }
-      },
-      "Syncfusion.Xamarin.Core/20.3.0.49": {
-        "type": "package",
-        "dependencies": {
-          "Syncfusion.Licensing": "20.3.0.49",
-          "Xamarin.Forms": "5.0.0.2012"
-        },
-        "compile": {
-          "lib/Xamarin.iOS10/Syncfusion.Core.XForms.dll": {},
-          "lib/Xamarin.iOS10/Syncfusion.Core.XForms.iOS.dll": {}
-        },
-        "runtime": {
-          "lib/Xamarin.iOS10/Syncfusion.Core.XForms.dll": {},
-          "lib/Xamarin.iOS10/Syncfusion.Core.XForms.iOS.dll": {}
-        }
-      },
-      "Syncfusion.Xamarin.SfComboBox/20.3.0.49": {
-        "type": "package",
-        "dependencies": {
-          "Syncfusion.Xamarin.Core": "20.3.0.49",
-          "Xamarin.Forms": "5.0.0.2012"
-        },
-        "compile": {
-          "lib/Xamarin.iOS10/Syncfusion.SfComboBox.XForms.dll": {},
-          "lib/Xamarin.iOS10/Syncfusion.SfComboBox.XForms.iOS.dll": {}
-        },
-        "runtime": {
-          "lib/Xamarin.iOS10/Syncfusion.SfComboBox.XForms.dll": {},
-          "lib/Xamarin.iOS10/Syncfusion.SfComboBox.XForms.iOS.dll": {}
-        }
-      },
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
@@ -551,7 +473,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Syncfusion.Xamarin.SfComboBox": "20.3.0.49",
+          "FirebaseDatabase.net": "4.1.0",
           "Xamarin.Essentials": "1.7.0",
           "Xamarin.Forms": "5.0.0.2196"
         },
@@ -600,45 +522,6 @@
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         }
       },
-      "Syncfusion.Licensing/20.3.0.49": {
-        "type": "package",
-        "compile": {
-          "lib/Xamarin.iOS10/Syncfusion.Licensing.dll": {}
-        },
-        "runtime": {
-          "lib/Xamarin.iOS10/Syncfusion.Licensing.dll": {}
-        }
-      },
-      "Syncfusion.Xamarin.Core/20.3.0.49": {
-        "type": "package",
-        "dependencies": {
-          "Syncfusion.Licensing": "20.3.0.49",
-          "Xamarin.Forms": "5.0.0.2012"
-        },
-        "compile": {
-          "lib/Xamarin.iOS10/Syncfusion.Core.XForms.dll": {},
-          "lib/Xamarin.iOS10/Syncfusion.Core.XForms.iOS.dll": {}
-        },
-        "runtime": {
-          "lib/Xamarin.iOS10/Syncfusion.Core.XForms.dll": {},
-          "lib/Xamarin.iOS10/Syncfusion.Core.XForms.iOS.dll": {}
-        }
-      },
-      "Syncfusion.Xamarin.SfComboBox/20.3.0.49": {
-        "type": "package",
-        "dependencies": {
-          "Syncfusion.Xamarin.Core": "20.3.0.49",
-          "Xamarin.Forms": "5.0.0.2012"
-        },
-        "compile": {
-          "lib/Xamarin.iOS10/Syncfusion.SfComboBox.XForms.dll": {},
-          "lib/Xamarin.iOS10/Syncfusion.SfComboBox.XForms.iOS.dll": {}
-        },
-        "runtime": {
-          "lib/Xamarin.iOS10/Syncfusion.SfComboBox.XForms.dll": {},
-          "lib/Xamarin.iOS10/Syncfusion.SfComboBox.XForms.iOS.dll": {}
-        }
-      },
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
@@ -832,7 +715,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Syncfusion.Xamarin.SfComboBox": "20.3.0.49",
+          "FirebaseDatabase.net": "4.1.0",
           "Xamarin.Essentials": "1.7.0",
           "Xamarin.Forms": "5.0.0.2196"
         },
@@ -881,45 +764,6 @@
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         }
       },
-      "Syncfusion.Licensing/20.3.0.49": {
-        "type": "package",
-        "compile": {
-          "lib/Xamarin.iOS10/Syncfusion.Licensing.dll": {}
-        },
-        "runtime": {
-          "lib/Xamarin.iOS10/Syncfusion.Licensing.dll": {}
-        }
-      },
-      "Syncfusion.Xamarin.Core/20.3.0.49": {
-        "type": "package",
-        "dependencies": {
-          "Syncfusion.Licensing": "20.3.0.49",
-          "Xamarin.Forms": "5.0.0.2012"
-        },
-        "compile": {
-          "lib/Xamarin.iOS10/Syncfusion.Core.XForms.dll": {},
-          "lib/Xamarin.iOS10/Syncfusion.Core.XForms.iOS.dll": {}
-        },
-        "runtime": {
-          "lib/Xamarin.iOS10/Syncfusion.Core.XForms.dll": {},
-          "lib/Xamarin.iOS10/Syncfusion.Core.XForms.iOS.dll": {}
-        }
-      },
-      "Syncfusion.Xamarin.SfComboBox/20.3.0.49": {
-        "type": "package",
-        "dependencies": {
-          "Syncfusion.Xamarin.Core": "20.3.0.49",
-          "Xamarin.Forms": "5.0.0.2012"
-        },
-        "compile": {
-          "lib/Xamarin.iOS10/Syncfusion.SfComboBox.XForms.dll": {},
-          "lib/Xamarin.iOS10/Syncfusion.SfComboBox.XForms.iOS.dll": {}
-        },
-        "runtime": {
-          "lib/Xamarin.iOS10/Syncfusion.SfComboBox.XForms.dll": {},
-          "lib/Xamarin.iOS10/Syncfusion.SfComboBox.XForms.iOS.dll": {}
-        }
-      },
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
@@ -1113,7 +957,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Syncfusion.Xamarin.SfComboBox": "20.3.0.49",
+          "FirebaseDatabase.net": "4.1.0",
           "Xamarin.Essentials": "1.7.0",
           "Xamarin.Forms": "5.0.0.2196"
         },
@@ -1184,107 +1028,6 @@
         "newtonsoft.json.13.0.1.nupkg.sha512",
         "newtonsoft.json.nuspec",
         "packageIcon.png"
-      ]
-    },
-    "Syncfusion.Licensing/20.3.0.49": {
-      "sha512": "AMjCJbUYLWGK0ZZzLEGZuwsENDQPz9N8kiwK8j1VNX55ZbamkMouCLhSHvO6W8UbbNMTHxq1wFOT6WRD4g/yLg==",
-      "type": "package",
-      "path": "syncfusion.licensing/20.3.0.49",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "LICENSE.txt",
-        "lib/MonoAndroid10.0/Syncfusion.Licensing.dll",
-        "lib/MonoAndroid90/Syncfusion.Licensing.dll",
-        "lib/Xamarin.Mac/Syncfusion.Licensing.dll",
-        "lib/Xamarin.iOS10/Syncfusion.Licensing.dll",
-        "lib/net20/Syncfusion.Licensing.dll",
-        "lib/net35/Syncfusion.Licensing.dll",
-        "lib/net40/Syncfusion.Licensing.dll",
-        "lib/net45/Syncfusion.Licensing.dll",
-        "lib/net451/Syncfusion.Licensing.dll",
-        "lib/net46/Syncfusion.Licensing.dll",
-        "lib/net5.0/Syncfusion.Licensing.dll",
-        "lib/net6.0/Syncfusion.Licensing.dll",
-        "lib/netcoreapp3.1/Syncfusion.Licensing.dll",
-        "lib/netstandard1.0/Syncfusion.Licensing.dll",
-        "lib/netstandard1.2/Syncfusion.Licensing.dll",
-        "lib/netstandard1.4/Syncfusion.Licensing.dll",
-        "lib/netstandard2.0/Syncfusion.Licensing.dll",
-        "lib/portable-win+net45+wp80+win81+wpa81/Syncfusion.Licensing.dll",
-        "lib/uap10.0/Syncfusion.Licensing.dll",
-        "syncfusion.licensing.20.3.0.49.nupkg.sha512",
-        "syncfusion.licensing.nuspec",
-        "syncfusion_logo.png"
-      ]
-    },
-    "Syncfusion.Xamarin.Core/20.3.0.49": {
-      "sha512": "b56HYtWF/pLYCuU/iFNFaambD5wEFAfpzKZYFrMHCjljoW3GPNrVXLx2iYPPDcHkCpSGBR/E3UAI33Cl/ddtog==",
-      "type": "package",
-      "path": "syncfusion.xamarin.core/20.3.0.49",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "LICENSE.txt",
-        "README.md",
-        "lib/MonoAndroid10.0/Syncfusion.Core.XForms.Android.dll",
-        "lib/MonoAndroid10.0/Syncfusion.Core.XForms.dll",
-        "lib/MonoAndroid10.0/Syncfusion.Core.XForms.xml",
-        "lib/Xamarin.Mac/Syncfusion.Core.XForms.dll",
-        "lib/Xamarin.Mac/Syncfusion.Core.XForms.macOS.dll",
-        "lib/Xamarin.iOS10/Syncfusion.Core.XForms.dll",
-        "lib/Xamarin.iOS10/Syncfusion.Core.XForms.iOS.dll",
-        "lib/Xamarin.iOS10/Syncfusion.Core.XForms.xml",
-        "lib/netstandard2.0/Syncfusion.Core.XForms.dll",
-        "lib/netstandard2.0/Syncfusion.Core.XForms.xml",
-        "lib/portable-win+net45+wp80+win81+wpa81/Syncfusion.Core.XForms.dll",
-        "lib/portable-win+net45+wp80+win81+wpa81/Syncfusion.Core.XForms.xml",
-        "lib/uap10.0/Syncfusion.Core.XForms.UWP.dll",
-        "lib/uap10.0/Syncfusion.Core.XForms.UWP.pri",
-        "lib/uap10.0/Syncfusion.Core.XForms.UWP/Syncfusion.Core.XForms.UWP.xr.xml",
-        "lib/uap10.0/Syncfusion.Core.XForms.UWP/TILRenderer/ToggleIcons/ClearButtonViewVisibleIcon.xaml",
-        "lib/uap10.0/Syncfusion.Core.XForms.UWP/TILRenderer/ToggleIcons/DropDownIcon.xaml",
-        "lib/uap10.0/Syncfusion.Core.XForms.UWP/TILRenderer/ToggleIcons/ToggleCollapsedIcon.xaml",
-        "lib/uap10.0/Syncfusion.Core.XForms.UWP/TILRenderer/ToggleIcons/ToggleVisibleIcon.xaml",
-        "lib/uap10.0/Syncfusion.Core.XForms.dll",
-        "lib/uap10.0/Syncfusion.Core.XForms.xml",
-        "syncfusion.xamarin.core.20.3.0.49.nupkg.sha512",
-        "syncfusion.xamarin.core.nuspec",
-        "syncfusion_logo.png"
-      ]
-    },
-    "Syncfusion.Xamarin.SfComboBox/20.3.0.49": {
-      "sha512": "REE0FSBsvyuwEhkMwtjtiWJbfWo3v2quylFiKy0h3LHbJfYTLGVClwLi6SipVJBdxwm1LkuDatmeDq2iagI8cw==",
-      "type": "package",
-      "path": "syncfusion.xamarin.sfcombobox/20.3.0.49",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "LICENSE.txt",
-        "README.md",
-        "lib/MonoAndroid10.0/Syncfusion.SfComboBox.XForms.Android.dll",
-        "lib/MonoAndroid10.0/Syncfusion.SfComboBox.XForms.XML",
-        "lib/MonoAndroid10.0/Syncfusion.SfComboBox.XForms.dll",
-        "lib/Xamarin.iOS10/Syncfusion.SfComboBox.XForms.XML",
-        "lib/Xamarin.iOS10/Syncfusion.SfComboBox.XForms.dll",
-        "lib/Xamarin.iOS10/Syncfusion.SfComboBox.XForms.iOS.dll",
-        "lib/netstandard2.0/Syncfusion.SfComboBox.XForms.XML",
-        "lib/netstandard2.0/Syncfusion.SfComboBox.XForms.dll",
-        "lib/portable-win+net45+wp80+win81+wpa81/Syncfusion.SfComboBox.XForms.XML",
-        "lib/portable-win+net45+wp80+win81+wpa81/Syncfusion.SfComboBox.XForms.dll",
-        "lib/uap10.0/Syncfusion.SfComboBox.XForms.UWP.XML",
-        "lib/uap10.0/Syncfusion.SfComboBox.XForms.UWP.dll",
-        "lib/uap10.0/Syncfusion.SfComboBox.XForms.UWP.pri",
-        "lib/uap10.0/Syncfusion.SfComboBox.XForms.UWP/Properties/Syncfusion.SfComboBox.XForms.UWP.rd.xml",
-        "lib/uap10.0/Syncfusion.SfComboBox.XForms.UWP/Syncfusion.SfComboBox.XForms.UWP.xr.xml",
-        "lib/uap10.0/Syncfusion.SfComboBox.XForms.UWP/Themes/Generic.xaml",
-        "lib/uap10.0/Syncfusion.SfComboBox.XForms.UWP/darkthemeimage.png",
-        "lib/uap10.0/Syncfusion.SfComboBox.XForms.UWP/dropdownbuttonimage.png",
-        "lib/uap10.0/Syncfusion.SfComboBox.XForms.XML",
-        "lib/uap10.0/Syncfusion.SfComboBox.XForms.dll",
-        "syncfusion.xamarin.sfcombobox.20.3.0.49.nupkg.sha512",
-        "syncfusion.xamarin.sfcombobox.nuspec",
-        "syncfusion_logo.png"
       ]
     },
     "System.Numerics.Vectors/4.5.0": {
@@ -1891,5 +1634,13 @@
         "#import": []
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché C:\\Users\\jdmartinez\\Documents\\CS\\TAREA XAMARIN\\SDEA\\SDEAXamarin\\SDEAXamarin\\SDEAXamarin.iOS\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

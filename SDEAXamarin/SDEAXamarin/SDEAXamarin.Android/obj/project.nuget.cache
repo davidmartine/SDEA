@@ -1,15 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "epduepAnJBj5P7AX3PS4lMHjCkGMaG9d0arHOAbeAV0z/6gHLEE/MReXbNCHJcDTbVEoBfPWhfR96DGQ6PJ+sw==",
+  "dgSpecHash": "osJ+fBLdkCgKVkC6s+0F8GthW+rNp8cIGofFL0F2uj0IcxsIjGnjRh4F5GidFrPXsor5YLjMkJ6WNLHpcRLP+A==",
   "success": true,
   "projectFilePath": "C:\\Users\\jdmartinez\\Documents\\CS\\TAREA XAMARIN\\SDEA\\SDEAXamarin\\SDEAXamarin\\SDEAXamarin.Android\\SDEAXamarin.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jdmartinez\\.nuget\\packages\\firebasedatabase.net\\4.1.0\\firebasedatabase.net.4.1.0.nupkg.sha512",
     "C:\\Users\\jdmartinez\\.nuget\\packages\\litedb\\4.1.4\\litedb.4.1.4.nupkg.sha512",
     "C:\\Users\\jdmartinez\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
-    "C:\\Users\\jdmartinez\\.nuget\\packages\\syncfusion.licensing\\20.3.0.49\\syncfusion.licensing.20.3.0.49.nupkg.sha512",
-    "C:\\Users\\jdmartinez\\.nuget\\packages\\syncfusion.xamarin.core\\20.3.0.49\\syncfusion.xamarin.core.20.3.0.49.nupkg.sha512",
-    "C:\\Users\\jdmartinez\\.nuget\\packages\\syncfusion.xamarin.sfcombobox\\20.3.0.49\\syncfusion.xamarin.sfcombobox.20.3.0.49.nupkg.sha512",
     "C:\\Users\\jdmartinez\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\jdmartinez\\.nuget\\packages\\system.reactive\\4.0.0\\system.reactive.4.0.0.nupkg.sha512",
     "C:\\Users\\jdmartinez\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
@@ -73,5 +70,12 @@
     "C:\\Users\\jdmartinez\\.nuget\\packages\\xamarin.google.android.material\\1.4.0.2\\xamarin.google.android.material.1.4.0.2.nupkg.sha512",
     "C:\\Users\\jdmartinez\\.nuget\\packages\\xamarin.google.guava.listenablefuture\\1.0.0.2\\xamarin.google.guava.listenablefuture.1.0.0.2.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché C:\\Users\\jdmartinez\\Documents\\CS\\TAREA XAMARIN\\SDEA\\SDEAXamarin\\SDEAXamarin\\SDEAXamarin.Android\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
