@@ -635,3 +635,4 @@ C:\Users\jdmartinez\Documents\CS\TAREA XAMARIN\SDEA\SDEAXamarin\SDEAXamarin\SDEA
 C:\Users\jdmartinez\Documents\CS\TAREA XAMARIN\SDEA\SDEAXamarin\SDEAXamarin\SDEAXamarin.Android\obj\Debug\120\stamp\_GenerateJavaStubs.stamp
 C:\Users\jdmartinez\Documents\CS\TAREA XAMARIN\SDEA\SDEAXamarin\SDEAXamarin\SDEAXamarin.Android\obj\Debug\120\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\jdmartinez\Documents\CS\TAREA XAMARIN\SDEA\SDEAXamarin\SDEAXamarin\SDEAXamarin.Android\obj\Debug\120\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\jdmartinez\Documents\CS\TAREA XAMARIN\SDEA\SDEAXamarin\SDEAXamarin\SDEAXamarin.Android\obj\Debug\120\android\src\com\companyname\sdeaxamarin\R.java
