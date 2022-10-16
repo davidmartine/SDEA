@@ -5,160 +5,163 @@
              xmlns:ListCollection="clr-namespace:System.Collections.Generic;assembly=netstandard"
              xmlns:local="clr-namespace:SDEAXamarin">
     <ContentPage.Content>
-        <Frame>
-            <Grid RowSpacing="15">
-                <Grid.ColumnDefinitions>
-                    <ColumnDefinition Width="*" />
-                </Grid.ColumnDefinitions>
-                <Grid.RowDefinitions>
-                    <RowDefinition Height="*" />
-                    <RowDefinition Height="180" />
-                </Grid.RowDefinitions>
-                <StackLayout Grid.Row="0">
-                    <Grid>
-                        <Grid.ColumnDefinitions>
-                            <ColumnDefinition Width="*" />
-                        </Grid.ColumnDefinitions>
-                        <Grid.RowDefinitions>
-                            <RowDefinition Height="*" />
-                        </Grid.RowDefinitions>
-                        <StackLayout Grid.Row="0" HorizontalOptions="Center">
-                            <Frame HasShadow="True" HeightRequest="45" Padding="0,1,0,0">
-                                <Entry WidthRequest="350" HeightRequest="50" Placeholder="Nombre Completo" FontSize="15"
+        <ScrollView>
+            <Frame>
+                <Grid RowSpacing="15">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="180" />
+                    </Grid.RowDefinitions>
+                    <StackLayout Grid.Row="0">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*" />
+                            </Grid.RowDefinitions>
+                            <StackLayout Grid.Row="0" HorizontalOptions="Center">
+                                <Frame HasShadow="True" HeightRequest="45" Padding="0,1,0,0">
+                                    <Entry WidthRequest="350" HeightRequest="50" Placeholder="Nombre Completo" FontSize="15"
                                HorizontalOptions="Center" VerticalOptions="Center" Keyboard="Text"
                                HorizontalTextAlignment="Start" MaxLength="200" x:Name="txtNombre"/>
-                            </Frame>
-                        </StackLayout>
-                    </Grid>
-                    <Grid>
-                        <Grid.ColumnDefinitions>
-                            <ColumnDefinition Width="*" />
-                        </Grid.ColumnDefinitions>
-                        <Grid.RowDefinitions>
-                            <RowDefinition Height="*" />
-                        </Grid.RowDefinitions>
-                        <StackLayout Grid.Row="0" HorizontalOptions="Center">
-                            <Frame HasShadow="True" HeightRequest="45" Padding="0,1,0,0">
-                                <Entry WidthRequest="350" HeightRequest="50" Placeholder="Cedula" FontSize="15"
+                                </Frame>
+                            </StackLayout>
+                        </Grid>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*" />
+                            </Grid.RowDefinitions>
+                            <StackLayout Grid.Row="0" HorizontalOptions="Center">
+                                <Frame HasShadow="True" HeightRequest="45" Padding="0,1,0,0">
+                                    <Entry WidthRequest="350" HeightRequest="50" Placeholder="Cedula" FontSize="15"
                                HorizontalOptions="Center" VerticalOptions="Center" Keyboard="Text"
                                HorizontalTextAlignment="Start" MaxLength="15" x:Name="txtCedula"/>
-                            </Frame>
-                        </StackLayout>
-                    </Grid>
-                    <Grid>
-                        <Grid.ColumnDefinitions>
-                            <ColumnDefinition Width="*" />
-                        </Grid.ColumnDefinitions>
-                        <Grid.RowDefinitions>
-                            <RowDefinition Height="*" />
-                        </Grid.RowDefinitions>
-                        <StackLayout Grid.Row="0" HorizontalOptions="Center">
-                            <Frame HasShadow="True" HeightRequest="45" Padding="0,1,0,0">
-                                <Entry WidthRequest="350" HeightRequest="50" Placeholder="Edad" FontSize="15"
+                                </Frame>
+                            </StackLayout>
+                        </Grid>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*" />
+                            </Grid.RowDefinitions>
+                            <StackLayout Grid.Row="0" HorizontalOptions="Center">
+                                <Frame HasShadow="True" HeightRequest="45" Padding="0,1,0,0">
+                                    <Entry WidthRequest="350" HeightRequest="50" Placeholder="Edad" FontSize="15"
                                HorizontalOptions="Center" VerticalOptions="Center" Keyboard="Numeric"
                                HorizontalTextAlignment="Start" MaxLength="3" x:Name="txtEdad"/>
-                            </Frame>
-                        </StackLayout>
-                    </Grid>
-                    <Grid>
-                        <Grid.ColumnDefinitions>
-                            <ColumnDefinition Width="*" />
-                        </Grid.ColumnDefinitions>
-                        <Grid.RowDefinitions>
-                            <RowDefinition Height="*" />
-                        </Grid.RowDefinitions>
-                        <StackLayout Grid.Row="0" HorizontalOptions="Center">
-                            <Label Text="Fecha Nacimiento:"/>
-                            <Frame HasShadow="True" HeightRequest="100" Padding="0,1,0,0">
-                                <DatePicker Format="yyyy_MM_dd" x:Name="dpFechaNacimiento"/>
-                            </Frame>
-                        </StackLayout>
-                    </Grid>
-                    <Grid>
-                        <Grid.ColumnDefinitions>
-                            <ColumnDefinition Width="*" />
-                        </Grid.ColumnDefinitions>
-                        <Grid.RowDefinitions>
-                            <RowDefinition Height="*" />
-                        </Grid.RowDefinitions>
-                        <StackLayout Grid.Row="0" HorizontalOptions="Center">
-                            <Frame HasShadow="True" HeightRequest="45" Padding="0,1,0,1">
-                                <Entry WidthRequest="350" HeightRequest="50" Placeholder="Telefono" FontSize="15"
+                                </Frame>
+                            </StackLayout>
+                        </Grid>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*" />
+                            </Grid.RowDefinitions>
+                            <StackLayout Grid.Row="0" HorizontalOptions="Center">
+                                <Label Text="Fecha Nacimiento:"/>
+                                <Frame HasShadow="True" HeightRequest="100" Padding="0,1,0,0">
+                                    <DatePicker Format="yyyy_MM_dd" x:Name="dpFechaNacimiento"/>
+                                </Frame>
+                            </StackLayout>
+                        </Grid>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*" />
+                            </Grid.RowDefinitions>
+                            <StackLayout Grid.Row="0" HorizontalOptions="Center">
+                                <Frame HasShadow="True" HeightRequest="45" Padding="0,1,0,1">
+                                    <Entry WidthRequest="350" HeightRequest="50" Placeholder="Telefono" FontSize="15"
                                HorizontalOptions="Center" VerticalOptions="Center" Keyboard="Numeric"
                                HorizontalTextAlignment="Start" MaxLength="20" x:Name="txtTelefono"/>
-                            </Frame>
-                        </StackLayout>
-                    </Grid>
-                    <Grid>
-                        <Grid.ColumnDefinitions>
-                            <ColumnDefinition Width="*" />
-                        </Grid.ColumnDefinitions>
-                        <Grid.RowDefinitions>
-                            <RowDefinition Height="*" />
-                        </Grid.RowDefinitions>
-                        <StackLayout Grid.Row="0" HorizontalOptions="Center">
-                            <Frame HasShadow="True" HeightRequest="45" Padding="0,1,0,0">
-                                <Entry WidthRequest="350" HeightRequest="50" Placeholder="Accion" FontSize="15"
+                                </Frame>
+                            </StackLayout>
+                        </Grid>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*" />
+                            </Grid.RowDefinitions>
+                            <StackLayout Grid.Row="0" HorizontalOptions="Center">
+                                <Frame HasShadow="True" HeightRequest="45" Padding="0,1,0,0">
+                                    <Entry WidthRequest="350" HeightRequest="50" Placeholder="Accion" FontSize="15"
                                    HorizontalOptions="Center" VerticalOptions="Center" Keyboard="Text"
                                    HorizontalTextAlignment="Start" MaxLength="200" x:Name="txtAccion"/>
-                            </Frame>
-                        </StackLayout>
-                    </Grid>
-                    <Grid>
-                        <Grid.ColumnDefinitions>
-                            <ColumnDefinition Width="*" />
-                        </Grid.ColumnDefinitions>
-                        <Grid.RowDefinitions>
-                            <RowDefinition Height="*" />
-                        </Grid.RowDefinitions>
-                        <StackLayout Grid.Row="0" HorizontalOptions="Center">
-                            <Label Text="Eps:"/>
-                            <Frame HasShadow="True" HeightRequest="45" Padding="0,1,0,0">
-                                <Picker Title="--SELECCIONAR--" WidthRequest="350" FontSize="15" x:Name="pEps">
-                                    <Picker.Items>
-                                        <x:String>SURA</x:String>
-                                        <x:String>SALUD TOTAL</x:String>
-                                        <x:String>VIDA SALUD</x:String>
-                                    </Picker.Items>
-                                </Picker>
-                            </Frame>
-                        </StackLayout>
-                    </Grid>
-                    <Grid>
-                        <Grid.ColumnDefinitions>
-                            <ColumnDefinition Width="*" />
-                        </Grid.ColumnDefinitions>
-                        <Grid.RowDefinitions>
-                            <RowDefinition Height="*" />
-                        </Grid.RowDefinitions>
-                        <StackLayout Grid.Row="0" HorizontalOptions="Center">
-                            <Frame HasShadow="True" HeightRequest="45" Padding="0,1,0,1">
-                                <Entry WidthRequest="350" HeightRequest="50" Placeholder="Evento" FontSize="15"
+                                </Frame>
+                            </StackLayout>
+                        </Grid>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*" />
+                            </Grid.RowDefinitions>
+                            <StackLayout Grid.Row="0" HorizontalOptions="Center">
+                                <Label Text="Eps:"/>
+                                <Frame HasShadow="True" HeightRequest="45" Padding="0,1,0,0">
+                                    <Picker Title="--SELECCIONAR--" WidthRequest="350" FontSize="15" x:Name="pEps">
+                                        <Picker.Items>
+                                            <x:String>SURA</x:String>
+                                            <x:String>SALUD TOTAL</x:String>
+                                            <x:String>VIDA SALUD</x:String>
+                                        </Picker.Items>
+                                    </Picker>
+                                </Frame>
+                            </StackLayout>
+                        </Grid>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*" />
+                            </Grid.RowDefinitions>
+                            <StackLayout Grid.Row="0" HorizontalOptions="Center">
+                                <Frame HasShadow="True" HeightRequest="45" Padding="0,1,0,1">
+                                    <Entry WidthRequest="350" HeightRequest="50" Placeholder="Evento" FontSize="15"
                                HorizontalOptions="Center" VerticalOptions="Center" Keyboard="Text"
                                HorizontalTextAlignment="Start" MaxLength="50" x:Name="txtEvento"/>
-                            </Frame>
-                        </StackLayout>
-                    </Grid>
-                    <Grid>
-                        <Grid.ColumnDefinitions>
-                            <ColumnDefinition Width="*" />
-                        </Grid.ColumnDefinitions>
-                        <Grid.RowDefinitions>
-                            <RowDefinition Height="*" />
-                        </Grid.RowDefinitions>
-                        <StackLayout Grid.Row="0" HorizontalOptions="Center">
-                            <Frame HasShadow="True" HeightRequest="45" Padding="0,1,0,1">
-                                <Entry WidthRequest="350" HeightRequest="50" Placeholder="Descipcion" FontSize="15"
+                                </Frame>
+                            </StackLayout>
+                        </Grid>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*" />
+                            </Grid.RowDefinitions>
+                            <StackLayout Grid.Row="0" HorizontalOptions="Center">
+                                <Frame HasShadow="True" HeightRequest="45" Padding="0,1,0,1">
+                                    <Entry WidthRequest="350" HeightRequest="50" Placeholder="Descipcion" FontSize="15"
                                HorizontalOptions="Center" VerticalOptions="Center" Keyboard="Text"
                                HorizontalTextAlignment="Start" MaxLength="100" x:Name="txtDescripcion"/>
-                            </Frame>
-                        </StackLayout>
-                    </Grid>
-                </StackLayout>
-                <Button Grid.Row="1" WidthRequest="350" Margin="30,0,30,5" CornerRadius="15" BackgroundColor="SteelBlue"
+                                </Frame>
+                            </StackLayout>
+                        </Grid>
+                    </StackLayout>
+                    <Button Grid.Row="1" WidthRequest="350" Margin="30,0,30,0" CornerRadius="15" BackgroundColor="SteelBlue"
                         TextColor="Black" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"
                         Text="INGRESAR REGISTRO" x:Name="btnGuardar" Clicked="btnGuardar_Clicked"/>
-            </Grid>
-        </Frame>
+                </Grid>
+            </Frame>
+        </ScrollView>
+      
     </ContentPage.Content>
 </ContentPage>
