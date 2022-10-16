@@ -42,9 +42,9 @@
       "frameworks": {
         "xamarinios10": {
           "dependencies": {
-            "Syncfusion.Xamarin.SfComboBox": {
+            "FirebaseDatabase.net": {
               "target": "Package",
-              "version": "[20.3.0.49, )"
+              "version": "[4.1.0, )"
             },
             "Xamarin.Essentials": {
               "target": "Package",

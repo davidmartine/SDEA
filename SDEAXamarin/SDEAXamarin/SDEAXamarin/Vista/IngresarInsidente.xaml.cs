@@ -22,46 +22,46 @@ namespace SDEAXamarin.Vista
 
         private async void btnGuardar_Clicked(object sender, EventArgs e)
         {
-            if (!string.IsNullOrEmpty(txtAccion.Text))
+            if (!string.IsNullOrEmpty(txtNombre.Text))
             {
                 if (!string.IsNullOrEmpty(txtCedula.Text))
                 {
-                    if (!string.IsNullOrEmpty(txtDescripcion.Text))
+                    if (!string.IsNullOrEmpty(txtEdad.Text))
                     {
-                        if (!string.IsNullOrEmpty(txtEdad.Text))
+                        if (!string.IsNullOrEmpty(txtTelefono.Text))
                         {
-                            if (!string.IsNullOrEmpty(txtEvento.Text))
+                            if (!string.IsNullOrEmpty(txtAccion.Text))
                             {
-                                if (!string.IsNullOrEmpty(txtNombre.Text)) 
+                                if (!string.IsNullOrEmpty(txtEvento.Text)) 
                                 {
-                                    if (!string.IsNullOrEmpty(txtTelefono.Text))
+                                    if (!string.IsNullOrEmpty(txtDescripcion.Text))
                                     {
                                         await insertar_operador();
                                     }
                                     else
                                     {
-                                        await DisplayAlert("ERROR", "Campo Telefono Obligatorio", "OK");
+                                        await DisplayAlert("ERROR", "Campo Descripcion Obligatorio", "OK");
                                     }
                                 }
                                 else
                                 {
-                                    await DisplayAlert("ERROR", "Campo Nombre Obligatorio", "OK");
+                                    await DisplayAlert("ERROR", "Campo Evento Obligatorio", "OK");
                                 }
                             }
                             else
                             {
-                                await DisplayAlert("ERROR", "Campo Evento Obligatorio", "OK");
+                                await DisplayAlert("ERROR", "Campo Accion Obligatorio", "OK");
                             }
 
                         }
                         else
                         {
-                            await DisplayAlert("ERROR", "Campo Edad Obligatorio", "OK");
+                            await DisplayAlert("ERROR", "Campo Telefono Obligatorio", "OK");
                         }
                     }
                     else
                     {
-                        await DisplayAlert("ERROR", "Campo Descripcion Obligatorio", "OK");
+                        await DisplayAlert("ERROR", "Campo Edad Obligatorio", "OK");
                     }
                 }
                 else
@@ -71,7 +71,7 @@ namespace SDEAXamarin.Vista
             }
             else
             {
-                await DisplayAlert("ERROR", "Campo Accion Obligatorio", "OK");
+                await DisplayAlert("ERROR", "Campo Nombre Obligatorio", "OK");
             }
           
         }

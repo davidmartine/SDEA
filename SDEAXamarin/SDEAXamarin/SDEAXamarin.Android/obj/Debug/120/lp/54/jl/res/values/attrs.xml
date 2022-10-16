@@ -1,12 +1,4 @@
-<<<<<<< HEAD:SDEAXamarin/SDEAXamarin/SDEAXamarin.Android/obj/Debug/120/lp/56/jl/res/values/attrs.xml
-<<<<<<< HEAD
-<resources xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android"><!-- 
-=======
 <resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"><!-- 
->>>>>>> dev_juand
-=======
-<resources xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android"><!-- 
->>>>>>> dev_juand:SDEAXamarin/SDEAXamarin/SDEAXamarin.Android/obj/Debug/120/lp/54/jl/res/values/attrs.xml
     This defines the collectionViewStyle attribute so that we can use it 
     to add the scrollbars style to the CollectionView/CarouselView renderers.
   --><declare-styleable name="ItemsViewRendererTheme"><attr name="collectionViewStyle" format="reference" /></declare-styleable><declare-styleable name="ScrollViewRendererTheme"><attr name="scrollViewStyle" format="reference" /></declare-styleable></resources>
