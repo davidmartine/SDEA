@@ -3,13 +3,12 @@ public class MonoPackageManager_Resources {
 	public static String[] Assemblies = new String[]{
 		/* We need to ensure that "SDEAXamarin.Android.dll" comes first in this list. */
 		"SDEAXamarin.Android.dll",
+		"Firebase.dll",
 		"FormsViewGroup.dll",
+		"LiteDB.dll",
+		"Newtonsoft.Json.dll",
 		"SDEAXamarin.dll",
-		"Syncfusion.Core.XForms.Android.dll",
-		"Syncfusion.Core.XForms.dll",
-		"Syncfusion.Licensing.dll",
-		"Syncfusion.SfComboBox.XForms.Android.dll",
-		"Syncfusion.SfComboBox.XForms.dll",
+		"System.Reactive.dll",
 		"Xamarin.AndroidX.Activity.dll",
 		"Xamarin.AndroidX.Annotation.dll",
 		"Xamarin.AndroidX.Annotation.Experimental.dll",
