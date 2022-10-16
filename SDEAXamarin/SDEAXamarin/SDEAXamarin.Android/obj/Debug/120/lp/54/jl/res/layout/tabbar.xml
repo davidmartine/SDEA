@@ -1,0 +1,9 @@
+<<<<<<< HEAD:SDEAXamarin/SDEAXamarin/SDEAXamarin.Android/obj/Debug/120/lp/56/jl/res/layout/tabbar.xml
+<<<<<<< HEAD
+<com.google.android.material.tabs.TabLayout android:id="@+id/sliding_tabs" android:layout_width="match_parent" android:layout_height="wrap_content" android:background="?attr/colorPrimary" android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar" app:tabIndicatorColor="@android:color/white" app:tabGravity="fill" app:tabMode="fixed" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android" />
+=======
+<com.google.android.material.tabs.TabLayout android:id="@+id/sliding_tabs" android:layout_width="match_parent" android:layout_height="wrap_content" android:background="?attr/colorPrimary" android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar" app:tabIndicatorColor="@android:color/white" app:tabGravity="fill" app:tabMode="fixed" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" />
+>>>>>>> dev_juand
+=======
+<com.google.android.material.tabs.TabLayout android:id="@+id/sliding_tabs" android:layout_width="match_parent" android:layout_height="wrap_content" android:background="?attr/colorPrimary" android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar" app:tabIndicatorColor="@android:color/white" app:tabGravity="fill" app:tabMode="fixed" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android" />
+>>>>>>> dev_juand:SDEAXamarin/SDEAXamarin/SDEAXamarin.Android/obj/Debug/120/lp/54/jl/res/layout/tabbar.xml
