@@ -11,7 +11,8 @@ namespace SDEAXamarin
         {
             InitializeComponent();
 
-            MainPage = new NavigationPage(new MenuOperador());
+            MainPage = new NavigationPage(new Consultor());
+            //MainPage = new NavigationPage(new MenuOperador());
         }
 
         protected override void OnStart()

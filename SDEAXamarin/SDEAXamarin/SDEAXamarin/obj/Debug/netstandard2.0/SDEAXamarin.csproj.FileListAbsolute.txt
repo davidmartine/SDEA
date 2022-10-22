@@ -6,6 +6,7 @@ C:\Users\jdmartinez\Documents\CS\TAREA XAMARIN\SDEA\SDEAXamarin\SDEAXamarin\SDEA
 C:\Users\jdmartinez\Documents\CS\TAREA XAMARIN\SDEA\SDEAXamarin\SDEAXamarin\SDEAXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\jdmartinez\Documents\CS\TAREA XAMARIN\SDEA\SDEAXamarin\SDEAXamarin\SDEAXamarin\obj\Debug\netstandard2.0\Vista\IngresarInsidente.xaml.g.cs
 C:\Users\jdmartinez\Documents\CS\TAREA XAMARIN\SDEA\SDEAXamarin\SDEAXamarin\SDEAXamarin\obj\Debug\netstandard2.0\Vista\MenuOperador.xaml.g.cs
+C:\Users\jdmartinez\Documents\CS\TAREA XAMARIN\SDEA\SDEAXamarin\SDEAXamarin\SDEAXamarin\obj\Debug\netstandard2.0\Vista\MostrarIncidentes.xaml.g.cs
 C:\Users\jdmartinez\Documents\CS\TAREA XAMARIN\SDEA\SDEAXamarin\SDEAXamarin\SDEAXamarin\obj\Debug\netstandard2.0\SDEAXamarin.AssemblyInfoInputs.cache
 C:\Users\jdmartinez\Documents\CS\TAREA XAMARIN\SDEA\SDEAXamarin\SDEAXamarin\SDEAXamarin\obj\Debug\netstandard2.0\SDEAXamarin.AssemblyInfo.cs
 C:\Users\jdmartinez\Documents\CS\TAREA XAMARIN\SDEA\SDEAXamarin\SDEAXamarin\SDEAXamarin\obj\Debug\netstandard2.0\SDEAXamarin.csproj.CoreCompileInputs.cache
