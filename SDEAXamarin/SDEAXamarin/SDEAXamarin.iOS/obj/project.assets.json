@@ -1573,11 +1573,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jdmartinez\\Documents\\CS\\TAREA XAMARIN\\SDEA\\SDEAXamarin\\SDEAXamarin\\SDEAXamarin.iOS\\SDEAXamarin.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\jdmartinez\\source\\repos\\SDEA\\SDEAXamarin\\SDEAXamarin\\SDEAXamarin.iOS\\SDEAXamarin.iOS.csproj",
       "projectName": "SDEAXamarin.iOS",
-      "projectPath": "C:\\Users\\jdmartinez\\Documents\\CS\\TAREA XAMARIN\\SDEA\\SDEAXamarin\\SDEAXamarin\\SDEAXamarin.iOS\\SDEAXamarin.iOS.csproj",
+      "projectPath": "C:\\Users\\jdmartinez\\source\\repos\\SDEA\\SDEAXamarin\\SDEAXamarin\\SDEAXamarin.iOS\\SDEAXamarin.iOS.csproj",
       "packagesPath": "C:\\Users\\jdmartinez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jdmartinez\\Documents\\CS\\TAREA XAMARIN\\SDEA\\SDEAXamarin\\SDEAXamarin\\SDEAXamarin.iOS\\obj\\",
+      "outputPath": "C:\\Users\\jdmartinez\\source\\repos\\SDEA\\SDEAXamarin\\SDEAXamarin\\SDEAXamarin.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1598,8 +1598,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\jdmartinez\\Documents\\CS\\TAREA XAMARIN\\SDEA\\SDEAXamarin\\SDEAXamarin\\SDEAXamarin\\SDEAXamarin.csproj": {
-              "projectPath": "C:\\Users\\jdmartinez\\Documents\\CS\\TAREA XAMARIN\\SDEA\\SDEAXamarin\\SDEAXamarin\\SDEAXamarin\\SDEAXamarin.csproj"
+            "C:\\Users\\jdmartinez\\source\\repos\\SDEA\\SDEAXamarin\\SDEAXamarin\\SDEAXamarin\\SDEAXamarin.csproj": {
+              "projectPath": "C:\\Users\\jdmartinez\\source\\repos\\SDEA\\SDEAXamarin\\SDEAXamarin\\SDEAXamarin\\SDEAXamarin.csproj"
             }
           }
         }

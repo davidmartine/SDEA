@@ -1340,11 +1340,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jdmartinez\\Documents\\CS\\TAREA XAMARIN\\SDEA\\SDEAXamarin\\SDEAXamarin\\SDEAXamarin\\SDEAXamarin.csproj",
+      "projectUniqueName": "C:\\Users\\jdmartinez\\source\\repos\\SDEA\\SDEAXamarin\\SDEAXamarin\\SDEAXamarin\\SDEAXamarin.csproj",
       "projectName": "SDEAXamarin",
-      "projectPath": "C:\\Users\\jdmartinez\\Documents\\CS\\TAREA XAMARIN\\SDEA\\SDEAXamarin\\SDEAXamarin\\SDEAXamarin\\SDEAXamarin.csproj",
+      "projectPath": "C:\\Users\\jdmartinez\\source\\repos\\SDEA\\SDEAXamarin\\SDEAXamarin\\SDEAXamarin\\SDEAXamarin.csproj",
       "packagesPath": "C:\\Users\\jdmartinez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jdmartinez\\Documents\\CS\\TAREA XAMARIN\\SDEA\\SDEAXamarin\\SDEAXamarin\\SDEAXamarin\\obj\\",
+      "outputPath": "C:\\Users\\jdmartinez\\Source\\Repos\\SDEA\\SDEAXamarin\\SDEAXamarin\\SDEAXamarin\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

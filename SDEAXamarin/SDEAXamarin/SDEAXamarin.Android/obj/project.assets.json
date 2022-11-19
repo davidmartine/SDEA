@@ -3531,11 +3531,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jdmartinez\\Documents\\CS\\TAREA XAMARIN\\SDEA\\SDEAXamarin\\SDEAXamarin\\SDEAXamarin.Android\\SDEAXamarin.Android.csproj",
+      "projectUniqueName": "C:\\Users\\jdmartinez\\source\\repos\\SDEA\\SDEAXamarin\\SDEAXamarin\\SDEAXamarin.Android\\SDEAXamarin.Android.csproj",
       "projectName": "SDEAXamarin.Android",
-      "projectPath": "C:\\Users\\jdmartinez\\Documents\\CS\\TAREA XAMARIN\\SDEA\\SDEAXamarin\\SDEAXamarin\\SDEAXamarin.Android\\SDEAXamarin.Android.csproj",
+      "projectPath": "C:\\Users\\jdmartinez\\source\\repos\\SDEA\\SDEAXamarin\\SDEAXamarin\\SDEAXamarin.Android\\SDEAXamarin.Android.csproj",
       "packagesPath": "C:\\Users\\jdmartinez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jdmartinez\\Documents\\CS\\TAREA XAMARIN\\SDEA\\SDEAXamarin\\SDEAXamarin\\SDEAXamarin.Android\\obj\\",
+      "outputPath": "C:\\Users\\jdmartinez\\source\\repos\\SDEA\\SDEAXamarin\\SDEAXamarin\\SDEAXamarin.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -3556,8 +3556,8 @@
       "frameworks": {
         "monoandroid12.0": {
           "projectReferences": {
-            "C:\\Users\\jdmartinez\\Documents\\CS\\TAREA XAMARIN\\SDEA\\SDEAXamarin\\SDEAXamarin\\SDEAXamarin\\SDEAXamarin.csproj": {
-              "projectPath": "C:\\Users\\jdmartinez\\Documents\\CS\\TAREA XAMARIN\\SDEA\\SDEAXamarin\\SDEAXamarin\\SDEAXamarin\\SDEAXamarin.csproj"
+            "C:\\Users\\jdmartinez\\source\\repos\\SDEA\\SDEAXamarin\\SDEAXamarin\\SDEAXamarin\\SDEAXamarin.csproj": {
+              "projectPath": "C:\\Users\\jdmartinez\\source\\repos\\SDEA\\SDEAXamarin\\SDEAXamarin\\SDEAXamarin\\SDEAXamarin.csproj"
             }
           }
         }

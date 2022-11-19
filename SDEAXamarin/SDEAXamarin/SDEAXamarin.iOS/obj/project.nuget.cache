@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G2MBJ2lO71uvlqlZE75MMwnM7p8kIusdyhZY5fCMrB3yhhzhWKCXvtd8DUKQW9TIWAhK9AwDISkDRvpcvK8hmg==",
+  "dgSpecHash": "33oPP6XLWBIPfQvJtGwt2PJp6mtQkzssF6NClvc742saVQN0Fb4H5QkHulYfNfzWrqxi/2G04uBzRYaP7y7Usw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jdmartinez\\Documents\\CS\\TAREA XAMARIN\\SDEA\\SDEAXamarin\\SDEAXamarin\\SDEAXamarin.iOS\\SDEAXamarin.iOS.csproj",
+  "projectFilePath": "C:\\Users\\jdmartinez\\source\\repos\\SDEA\\SDEAXamarin\\SDEAXamarin\\SDEAXamarin.iOS\\SDEAXamarin.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jdmartinez\\.nuget\\packages\\firebasedatabase.net\\4.1.0\\firebasedatabase.net.4.1.0.nupkg.sha512",
     "C:\\Users\\jdmartinez\\.nuget\\packages\\litedb\\4.1.4\\litedb.4.1.4.nupkg.sha512",
