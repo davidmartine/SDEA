@@ -23,5 +23,10 @@ namespace SDEAXamarin.Vista
         {
             await Navigation.PushAsync(new Registro());
         }
+
+        private async void btnLogin_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new MenuOperador());
+        }
     }
 }

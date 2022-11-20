@@ -1,7 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="SDEAXamarin.Vista.Registro">
+             x:Class="SDEAXamarin.Vista.Registro"
+             BackgroundColor="White">
     <ContentPage.Content>
         <ScrollView>
             <Grid>
@@ -19,7 +20,7 @@
                     <RowDefinition Height="Auto" />
                 </Grid.RowDefinitions>
                 <StackLayout Grid.Row="1" HorizontalOptions="Center" WidthRequest="300" Orientation="Vertical">
-                    <Image Source="logo.jpg"/>
+                    <Image Source="logo.jpg" WidthRequest="120" HeightRequest="120"/>
                 </StackLayout>
 
                 <StackLayout Grid.Row="2" HorizontalOptions="Center">
