@@ -23,8 +23,10 @@ C:\Users\jdmartinez\source\repos\SDEA\SDEAXamarin\SDEAXamarin\SDEAXamarin\obj\De
 C:\Users\jdmartinez\source\repos\SDEA\SDEAXamarin\SDEAXamarin\SDEAXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\jdmartinez\source\repos\SDEA\SDEAXamarin\SDEAXamarin\SDEAXamarin\obj\Debug\netstandard2.0\Vista\Consultor.xaml.g.cs
 C:\Users\jdmartinez\source\repos\SDEA\SDEAXamarin\SDEAXamarin\SDEAXamarin\obj\Debug\netstandard2.0\Vista\IngresarInsidente.xaml.g.cs
+C:\Users\jdmartinez\source\repos\SDEA\SDEAXamarin\SDEAXamarin\SDEAXamarin\obj\Debug\netstandard2.0\Vista\Login.xaml.g.cs
 C:\Users\jdmartinez\source\repos\SDEA\SDEAXamarin\SDEAXamarin\SDEAXamarin\obj\Debug\netstandard2.0\Vista\MenuOperador.xaml.g.cs
 C:\Users\jdmartinez\source\repos\SDEA\SDEAXamarin\SDEAXamarin\SDEAXamarin\obj\Debug\netstandard2.0\Vista\MostrarIncidentes.xaml.g.cs
+C:\Users\jdmartinez\source\repos\SDEA\SDEAXamarin\SDEAXamarin\SDEAXamarin\obj\Debug\netstandard2.0\Vista\Registro.xaml.g.cs
 C:\Users\jdmartinez\source\repos\SDEA\SDEAXamarin\SDEAXamarin\SDEAXamarin\obj\Debug\netstandard2.0\SDEAXamarin.AssemblyInfoInputs.cache
 C:\Users\jdmartinez\source\repos\SDEA\SDEAXamarin\SDEAXamarin\SDEAXamarin\obj\Debug\netstandard2.0\SDEAXamarin.AssemblyInfo.cs
 C:\Users\jdmartinez\source\repos\SDEA\SDEAXamarin\SDEAXamarin\SDEAXamarin\obj\Debug\netstandard2.0\SDEAXamarin.csproj.CoreCompileInputs.cache
