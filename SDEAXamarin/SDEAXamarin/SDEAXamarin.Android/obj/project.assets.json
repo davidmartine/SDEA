@@ -2,8 +2,6 @@
   "version": 3,
   "targets": {
     "MonoAndroid,Version=v12.0": {
-<<<<<<< HEAD
-=======
       "CommonServiceLocator/2.0.2": {
         "type": "package",
         "compile": {
@@ -13,7 +11,6 @@
           "lib/netstandard2.0/CommonServiceLocator.dll": {}
         }
       },
->>>>>>> dev_juand
       "FirebaseAuthentication.net/3.7.2": {
         "type": "package",
         "dependencies": {
@@ -72,8 +69,6 @@
           "lib/MonoAndroid10/_._": {}
         }
       },
-<<<<<<< HEAD
-=======
       "MvvmLightLibs/5.4.1.1": {
         "type": "package",
         "dependencies": {
@@ -90,7 +85,6 @@
           "lib/monoandroid1/GalaSoft.MvvmLight.dll": {}
         }
       },
->>>>>>> dev_juand
       "NETStandard.Library/1.6.1": {
         "type": "package",
         "dependencies": {
@@ -2186,8 +2180,6 @@
     }
   },
   "libraries": {
-<<<<<<< HEAD
-=======
     "CommonServiceLocator/2.0.2": {
       "sha512": "OeAz2cDGiQuaxpJ2pUm1xyZyklT2HgP5LHoumI0o/pcXdTweJMjKHu92JKa33pZRCrRI0DdPcE5MGHk6GCpDMQ==",
       "type": "package",
@@ -2205,7 +2197,6 @@
         "lib/netstandard2.0/CommonServiceLocator.dll"
       ]
     },
->>>>>>> dev_juand
     "FirebaseAuthentication.net/3.7.2": {
       "sha512": "d0Zc0tiE7NutI/jMX/T81LU/rX3HVBH8vtvKTbIeN6BCIQ+wipstz7tm5MnIgAeh4ehqCHTiVuMOHztqfCVCBQ==",
       "type": "package",
@@ -2303,8 +2294,6 @@
         "ref/xamarinwatchos10/_._"
       ]
     },
-<<<<<<< HEAD
-=======
     "MvvmLightLibs/5.4.1.1": {
       "sha512": "xYpVzOYnIz/M6T0pdc3w5t0vrt2ZKspSS+CZjQ+pZE+5yHv9qXSWkncHJXb6D7Egstalso4ivnIUkA1xEClViw==",
       "type": "package",
@@ -2321,12 +2310,15 @@
         "lib/SL5/System.Windows.Interactivity.dll",
         "lib/monoandroid1/GalaSoft.MvvmLight.Extras.XML",
         "lib/monoandroid1/GalaSoft.MvvmLight.Extras.dll",
+        "lib/monoandroid1/GalaSoft.MvvmLight.Extras.dll.mdb",
         "lib/monoandroid1/GalaSoft.MvvmLight.Extras.pdb",
         "lib/monoandroid1/GalaSoft.MvvmLight.Platform.XML",
         "lib/monoandroid1/GalaSoft.MvvmLight.Platform.dll",
+        "lib/monoandroid1/GalaSoft.MvvmLight.Platform.dll.mdb",
         "lib/monoandroid1/GalaSoft.MvvmLight.Platform.pdb",
         "lib/monoandroid1/GalaSoft.MvvmLight.XML",
         "lib/monoandroid1/GalaSoft.MvvmLight.dll",
+        "lib/monoandroid1/GalaSoft.MvvmLight.dll.mdb",
         "lib/monoandroid1/GalaSoft.MvvmLight.pdb",
         "lib/net35/GalaSoft.MvvmLight.Extras.dll",
         "lib/net35/GalaSoft.MvvmLight.Extras.pdb",
@@ -2422,7 +2414,6 @@
         "mvvmlightlibs.nuspec"
       ]
     },
->>>>>>> dev_juand
     "NETStandard.Library/1.6.1": {
       "sha512": "WcSp3+vP+yHNgS8EV5J7pZ9IRpeDuARBPN28by8zqff1wJQXm26PVU8L3/fYLBJVU7BtDyqNVWq2KlCVvSSR4A==",
       "type": "package",
@@ -6895,5 +6886,13 @@
         }
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché C:\\Users\\jdmartinez\\source\\repos\\SDEA\\SDEAXamarin\\SDEAXamarin\\SDEAXamarin.Android\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
