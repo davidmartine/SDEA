@@ -11,12 +11,12 @@ androidpackageformat=apk
 embedassembliesintoapk=false
 androidlinkmode=none
 androidlinkskip=
-androidsdkbuildtoolsversion=30.0.3
+androidsdkbuildtoolsversion=32.0.0
 androidsdkpath=c:\program files (x86)\android\android-sdk\
 androidndkpath=
 javasdkpath=c:\program files\microsoft\jdk-11.0.12.7-hotspot\
 androidsequencepointsmode=none
-xamarinandroidversion=12.3.0-3
+xamarinandroidversion=13.1.0-1
 monosymbolarchive=false
 androiduselatestplatformsdk=false
 targetframeworkversion=v12.0
@@ -25,7 +25,11 @@ androidgeneratejnimarshalmethods=false
 os=windows_nt
 androidincludedebugsymbols=true
 androidpackagenamingpolicy=lowercasecrc64
+<<<<<<< HEAD
 _nugetassetstimestamp=638045597952808209
+=======
+_nugetassetstimestamp=638045376086859963
+>>>>>>> b4727586ded288419f7e8c778e772f1f62421bd7
 typemapkind=strings-asm
 androidsupportedabis=arm64-v8a
 armeabi-v7a
