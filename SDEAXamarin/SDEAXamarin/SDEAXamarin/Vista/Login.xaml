@@ -1,7 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="SDEAXamarin.Vista.Login">
+             x:Class="SDEAXamarin.Vista.Login"
+             BackgroundColor="White">
     <ContentPage.Content>
         <Grid>
             <Grid.ColumnDefinitions>
@@ -19,7 +20,10 @@
                 <RowDefinition Height="Auto" />
                 
             </Grid.RowDefinitions>
-            <StackLayout Grid.Row="2" HorizontalOptions="Center" Orientation="Vertical" Margin="0,0,0,10">
+            <StackLayout Grid.Row="1" >
+                <Image Source="logo.jpg" WidthRequest="120" HeightRequest="120"/>
+            </StackLayout>
+                <StackLayout Grid.Row="2" HorizontalOptions="Center" Orientation="Vertical" Margin="0,0,0,10">
                 <Label Text="Bienvenido" FontAttributes="Bold" HorizontalOptions="Center"
                        FontSize="26" Margin="0,0,0,5" WidthRequest="300" TextColor="{OnPlatform Android=Black}"/>
                 <Label Text="Iniciar para continuar" TextColor="Black" FontSize="15" WidthRequest="300" />
@@ -41,7 +45,7 @@
                 <StackLayout Orientation="Horizontal" VerticalOptions="Center" Padding="0">
                     <Label Text="Password" FontSize="{OnPlatform Android=13}"
                            TextColor="Black" VerticalOptions="Center" WidthRequest="150" />
-                    <Button Text="¿Olvido su Contraseña?" TextColor="Black" FontSize="Medium"
+                    <Button Text="¿Olvido su Contraseña?" TextColor="Black" FontSize="Small"
                             WidthRequest="150" HorizontalOptions="End" BackgroundColor="White"
                             HeightRequest="30" Padding="0" IsEnabled="{Binding IsEnabledTxt}"/>
                 </StackLayout>
@@ -62,7 +66,8 @@
             <StackLayout Grid.Row="6" HorizontalOptions="Center" Orientation="Vertical">
                 <Button Text="Login" TextColor="Black" FontSize="Medium" BackgroundColor="#fcfcfc"
                         BorderColor="#f2f2f2" BorderWidth="1.5" WidthRequest="300" HeightRequest="50"
-                        Command="{Binding LoginCommand}" IsEnabled="{Binding IsEnabledTxt}"/>
+                        Command="{Binding LoginCommand}" IsEnabled="{Binding IsEnabledTxt}"
+                        x:Name="btnLogin" Clicked="btnLogin_Clicked"/>
 
                 <Button  Text="¿No tengo cuenta?" TextColor="Black" FontSize="Medium" BackgroundColor="White"
                          IsEnabled="{Binding IsEnabledTxt}" Clicked="Button_Clicked"/>

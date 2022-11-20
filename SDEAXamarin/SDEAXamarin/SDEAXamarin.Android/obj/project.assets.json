@@ -7131,6 +7131,14 @@
             "target": "Package",
             "version": "[3.7.2, )"
           },
+          "FirebaseAuthentication.net": {
+            "target": "Package",
+            "version": "[3.7.2, )"
+          },
+          "FirebaseDatabase.net": {
+            "target": "Package",
+            "version": "[4.1.0, )"
+          },
           "FirebaseDatabase.net": {
             "target": "Package",
             "version": "[4.1.0, )"
@@ -7139,9 +7147,21 @@
             "target": "Package",
             "version": "[13.0.1, )"
           },
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[13.0.1, )"
+          },
           "Xamarin.Essentials": {
             "target": "Package",
             "version": "[1.7.0, )"
+          },
+          "Xamarin.Essentials": {
+            "target": "Package",
+            "version": "[1.7.0, )"
+          },
+          "Xamarin.Forms": {
+            "target": "Package",
+            "version": "[5.0.0.2196, )"
           },
           "Xamarin.Forms": {
             "target": "Package",
