@@ -19,9 +19,8 @@ public class ActivityBase
 	public ActivityBase ()
 	{
 		super ();
-		if (getClass () == ActivityBase.class) {
+		if (getClass () == ActivityBase.class)
 			mono.android.TypeManager.Activate ("GalaSoft.MvvmLight.Views.ActivityBase, GalaSoft.MvvmLight.Platform", "", this, new java.lang.Object[] {  });
-		}
 	}
 
 

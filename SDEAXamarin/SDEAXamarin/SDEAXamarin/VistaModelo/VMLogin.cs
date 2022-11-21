@@ -2,6 +2,7 @@
 using GalaSoft.MvvmLight.Command;
 using Newtonsoft.Json;
 using SDEAXamarin.Model;
+using SDEAXamarin.Vista;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -84,6 +85,7 @@ namespace SDEAXamarin.VistaModelo
 
                 Preferences.Set("MyFirebaseRefreshToken", serialzedcontnet);
                 await App.Current.MainPage.DisplayAlert("Exito", "Login Correcto", "OK");
+                await Application.Current.MainPage.Navigation.PushAsync(new MenuOperador());
             }
             catch(Exception ex)
             {

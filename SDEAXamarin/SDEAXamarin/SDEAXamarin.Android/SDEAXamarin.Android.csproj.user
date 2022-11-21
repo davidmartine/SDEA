@@ -1,15 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-<<<<<<< HEAD
-    <SelectedDevice>Android Emulator</SelectedDevice>
-    <SelectedPlatformGroup>Emulator</SelectedPlatformGroup>
-    <ActiveDebugProfile>Android Emulator</ActiveDebugProfile>
-=======
-    <SelectedDevice>HUAWEI STK-LX3</SelectedDevice>
+    <SelectedDevice>Asus _Z01QD</SelectedDevice>
     <SelectedPlatformGroup>PhysicalDevice</SelectedPlatformGroup>
-    <ActiveDebugProfile>HUAWEI STK-LX3 %28Android 10.0 - API 29%29</ActiveDebugProfile>
->>>>>>> b4727586ded288419f7e8c778e772f1f62421bd7
+    <ActiveDebugProfile>Asus _Z01QD</ActiveDebugProfile>
     <DefaultDevice>pixel_5_-_api_33</DefaultDevice>
   </PropertyGroup>
 </Project>

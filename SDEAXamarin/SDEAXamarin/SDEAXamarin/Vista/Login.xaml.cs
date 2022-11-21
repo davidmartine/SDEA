@@ -26,7 +26,7 @@ namespace SDEAXamarin.Vista
 
         private async void btnLogin_Clicked(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new MenuOperador());
+           // await Navigation.PushAsync(new MenuOperador());
         }
     }
 }

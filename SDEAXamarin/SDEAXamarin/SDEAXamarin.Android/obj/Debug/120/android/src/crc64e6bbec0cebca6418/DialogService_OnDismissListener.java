@@ -20,9 +20,8 @@ public class DialogService_OnDismissListener
 	public DialogService_OnDismissListener ()
 	{
 		super ();
-		if (getClass () == DialogService_OnDismissListener.class) {
+		if (getClass () == DialogService_OnDismissListener.class)
 			mono.android.TypeManager.Activate ("GalaSoft.MvvmLight.Views.DialogService+OnDismissListener, GalaSoft.MvvmLight.Platform", "", this, new java.lang.Object[] {  });
-		}
 	}
 
 

@@ -22,9 +22,8 @@ public class ObservableAdapter_1
 	public ObservableAdapter_1 ()
 	{
 		super ();
-		if (getClass () == ObservableAdapter_1.class) {
+		if (getClass () == ObservableAdapter_1.class)
 			mono.android.TypeManager.Activate ("GalaSoft.MvvmLight.Helpers.ObservableAdapter`1, GalaSoft.MvvmLight.Platform", "", this, new java.lang.Object[] {  });
-		}
 	}
 
 
